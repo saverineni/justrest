@@ -1,0 +1,1 @@
+Sample project to show Spring, JSON and Jersey integration
